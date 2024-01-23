@@ -10270,7 +10270,7 @@
     }, Z.zOrder = {
         defaultZ: 100,
         cannon: 100,
-        ball: 50,
+        ball: 500000000,
         basket: 100,
         platform: 150,
         switcher: 40,
